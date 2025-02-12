@@ -1,4 +1,4 @@
-package UD1_programacion_de_procesos.TR_PSP101_VidalPolHugo;
+package UD1_programacion_de_procesos.Trabajo.TR_PSP101_VidalPolHugo;
 
 import java.util.ArrayList;
 import java.util.List;

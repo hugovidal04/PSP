@@ -1,4 +1,4 @@
-package UD1_programacion_de_procesos.TR_PSP101_VidalPolHugo;
+package UD1_programacion_de_procesos.Trabajo.TR_PSP101_VidalPolHugo;
 
 public class TR01_BuscaPrimos implements Runnable {
     private final int inicio, fin;

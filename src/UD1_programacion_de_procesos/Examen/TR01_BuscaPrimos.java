@@ -1,4 +1,4 @@
-package examen;
+package UD1_programacion_de_procesos.Examen;
 
 public class TR01_BuscaPrimos {
 	

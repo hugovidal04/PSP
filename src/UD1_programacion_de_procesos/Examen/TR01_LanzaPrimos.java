@@ -1,4 +1,4 @@
-package examen;
+package UD1_programacion_de_procesos.Examen;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
