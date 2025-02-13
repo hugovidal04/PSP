@@ -8,7 +8,7 @@ public class EX_PSP1_Ej1_Sumador {
 		for (int i = n1; i <= n2; i++) {
 			resultado += i;
 			 try {
-				 Thread.sleep(0); // Pausar 2 milisegundos (en desarrollo puede ponerse a cero para agilizar las pruebas)
+				 Thread.sleep(2); // Pausar 2 milisegundos (en desarrollo puede ponerse a cero para agilizar las pruebas)
 			    } catch (InterruptedException e) {
 			        System.err.println("La ejecución fue interrumpida: " + e.getMessage());
 			    }
