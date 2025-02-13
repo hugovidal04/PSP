@@ -13,7 +13,7 @@ public class TR01_LanzaPrimos {
 	
 	//Este método lanza un proceso y espera a su finalización
 	public void lanzarBuscaPrimos_1(Integer n1, Integer n2) {
-		String clase = "examen.TR01_BuscaPrimos";
+		String clase = "UD1_programacion_de_procesos.Examen.TR01_BuscaPrimos";
 		ProcessBuilder pb;
 		
 		try {
@@ -42,7 +42,7 @@ public class TR01_LanzaPrimos {
 	
 	//Esta función lanza un proceso y lo devuelve como parámetro al programa que lo había llamado
 	public Process lanzarBuscaPrimos_2(Integer n1, Integer n2) {
-		String clase = "examen.TR01_BuscaPrimos";
+		String clase = "UD1_programacion_de_procesos.Examen.TR01_BuscaPrimos";
 		ProcessBuilder pb;
 
 		try {
