@@ -2,7 +2,7 @@
 //En un momento dado sólamente un hilo puede realizar una operación de incremento sdobre un contador
 //Dos hilos distintos sí pueden incrementar cada uno de ellos, de forma concurrente, un contador distinto
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 class Contadores {
 

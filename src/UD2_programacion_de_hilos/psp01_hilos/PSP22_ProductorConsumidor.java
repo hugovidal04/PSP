@@ -11,7 +11,7 @@
  *    Terminar después de que el productor haya generado un número fijo de elementos (por ejemplo, 20).
  */
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 import java.util.LinkedList;
 import java.util.Queue;

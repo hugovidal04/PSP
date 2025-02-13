@@ -3,7 +3,7 @@
  * Si un hilo acierta el número, debe terminar su ejecución inmediatamente.
  * El resto de hilos deben terminar su ejecución en cuanto propongan un número y se les avise de otro hilo ya ha acertado el número*/
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 import java.util.Random;
 

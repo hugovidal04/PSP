@@ -8,7 +8,7 @@
  * Simular este problema en un programa Java que muestre el progreso de todos sin caer en problemas de sincronización ni de inanición.
  */
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 import java.util.Random;
 

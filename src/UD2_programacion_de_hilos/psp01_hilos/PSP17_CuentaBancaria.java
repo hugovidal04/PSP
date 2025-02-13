@@ -16,7 +16,7 @@
  *   Se desea comprobar que tras la ejecución la cuenta tiene exactamente 100 euros, que era la cantidad de la que se disponía al principio. 
  */
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 class Cuenta {
 

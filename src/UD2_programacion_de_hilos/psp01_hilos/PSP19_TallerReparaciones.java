@@ -22,7 +22,7 @@
 //        Qué mecánico está atendiendo a qué auto.
 //        El estado de las bahías y la cola de espera en tiempo real.
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 import java.util.LinkedList;
 import java.util.Queue;

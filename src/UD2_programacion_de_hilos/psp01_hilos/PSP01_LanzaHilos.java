@@ -1,4 +1,4 @@
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 class Hilo implements Runnable {
 	private final String nombre;

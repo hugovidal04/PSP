@@ -2,7 +2,7 @@
  * Programa que obtiene información acerca de las prioridades de los hilos
  * */
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 public class PSP03_InfoPrioridadHilos {
 

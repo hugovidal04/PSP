@@ -3,7 +3,7 @@
  * Cada hilo contabiliza las respuestas en una zona. Los encuestados pueden dar cualquier respuesta o no responder (NS/NC)
  * Se quiere contabilizar el número de encuestados para cada zona y el número de veces que se ha dado una respuesta en particular*/
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 import java.util.HashMap;
 import java.util.Random;

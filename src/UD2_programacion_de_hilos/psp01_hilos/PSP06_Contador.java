@@ -2,7 +2,7 @@
  * Programa que crea varios hilos, cada uno de los cuales cuenta desde 1 hasta un valor determinado
  */
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 //Clase Contador que implementa Runnable
 class Contador06 implements Runnable {

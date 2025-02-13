@@ -16,7 +16,7 @@
  * Si sale el 0, todo el mundo pierde y la banca se queda con todo el dinero.
  */
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 import java.util.Random;
 import java.util.concurrent.atomic.AtomicInteger;

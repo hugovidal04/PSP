@@ -9,7 +9,7 @@
 //    Mostrar en pantalla el progreso de cada temporizador en tiempo real.
 //    Usar hilos para que todos los temporizadores cuenten al mismo tiempo.
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 class Temporizador implements Runnable {
     private final int id;

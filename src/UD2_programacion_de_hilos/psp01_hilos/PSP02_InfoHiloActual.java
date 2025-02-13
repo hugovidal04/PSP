@@ -3,7 +3,7 @@
  * y obtiene información acerca de él
  * */
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 public class PSP02_InfoHiloActual {
 

@@ -4,7 +4,7 @@
  * El hilo principal crea y lanza todos los hilos y espera a que terminen de ejecutarse
  * */
 
-package UD2_programacion_de_hilos.psp02_hilos;
+package UD2_programacion_de_hilos.psp01_hilos;
 
 class Contador {
 	private int cuenta = 0;
