@@ -1,6 +1,6 @@
 //  //Muestra información sobre las interfaces de red disponibles en el sistema (con IP)
 
-package UD3_programacion_de_comunicaciones_en_redes.psp03_comunicaciones_en_red;
+package UD3_programacion_de_comunicaciones_en_redes.Ejercicios.psp01_comunicaciones_en_red;
 
 import java.net.Inet4Address;
 import java.net.Inet6Address;
