@@ -1,6 +1,6 @@
 //Conexión simple usando telnet a un servidor que muestra imágenes en modo texto
 
-package UD3_programacion_de_comunicaciones_en_redes.Ejercicios.psp02_servizos_en_rede;
+package UD4_generacion_de_servicios_en_rede.Ejercicios.psp02_servizos_en_rede;
 
 import org.apache.commons.net.telnet.TelnetClient;
 import java.io.InputStream;
