@@ -1,6 +1,6 @@
 //Clase básica que suma los valores comprendidos entre n1 y n2
 
-package UD2_programacion_de_hilos.examen01;
+package UD2_programacion_de_hilos.Examen;
 
 public class EX_PSP1_Ej1_Sumador {
 	private int sumar(int n1, int n2) {

@@ -13,7 +13,7 @@
  *  -Un mensaje final indicando cuántos clientes lograron comprar y cuántos no.
  */
 
-package UD2_programacion_de_hilos.examen01;
+package UD2_programacion_de_hilos.Examen;
 
 import java.util.Random;
 
